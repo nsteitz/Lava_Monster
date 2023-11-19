@@ -11,7 +11,7 @@ for this project, Lava Monster and Woods Monster, are abstract classes that have
 and cemetery monster "is a" woods monster. There is also file input in both woods monster and lava monster. Both of them use files
 to read in data to use for the challenges that the user will face. All of this code was also written if C++.
 
-Starter Code and credit
+Starter Code and credit:
 For this project our professor Lisa Dion at the University of Vermont provided all the files in the water, sky, and darknesss folder with TODO's that we also completed. My team mate Nathaniel Borrok-Hoffman also created the woods monster file and I created the lava monser ones.
 
 
