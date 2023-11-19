@@ -2,7 +2,7 @@
 Nathan Steitz 
 Nathaniel Borrok-Hoffman
 
-- A summary of your program 
+- A summary of your program: 
 This program is intended to be a playable game in which you have to choose which route to take and then depending on the
 route you will face different challenges/obstacles. More specifically, you will be facing the monsters that were created and each monster has their own
 challenge. If you succeed in beating the monster's challenges you win the game and are then able to bring milk back to your family from the store.
